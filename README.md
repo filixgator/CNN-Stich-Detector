@@ -1,4 +1,4 @@
-# CNN-Stich-Detector
+# Medtronic Aortic Heart Valve Stitch Detector
 ## Objetivo
 El presente proyecto consiste en un sistema capaz de identificar las puntadas que forman las costuras de una válvula cardiovascular, como base para posibilitar la detección de errores en la fabricación de la misma, implementando herramientas de visión artificial.
 ## Tecnología
