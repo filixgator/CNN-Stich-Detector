@@ -8,3 +8,6 @@ Se hace uso de una implementación open source de una Mask R-CNN, la cual puede 
 * Preprocesado
 * GUI
 ## Resultados
+* Imágenes muestra
+* Preprocesado
+* Segmentación
