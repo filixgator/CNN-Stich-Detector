@@ -13,3 +13,4 @@ Se hace uso de una implementación open source de una Mask R-CNN, la cual puede 
 * Preprocesado
    * ![img2](/assets/2sharp.png)
 * Segmentación
+   * ![img3](/assets/result2.png)
