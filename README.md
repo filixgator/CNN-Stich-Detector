@@ -9,5 +9,7 @@ Se hace uso de una implementación open source de una Mask R-CNN, la cual puede 
 * GUI
 ## Resultados
 * Imágenes muestra
+   * ![img1](/assets/2.png)
 * Preprocesado
+   * ![img2](/assets/2sharp.png)
 * Segmentación
